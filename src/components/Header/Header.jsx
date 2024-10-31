@@ -7,7 +7,7 @@ const Header=()=>{
             <nav>
                 <div>Home</div>
                 <div>Courses</div>
-                
+                <div>How it Works</div>
 
 
             </nav>
